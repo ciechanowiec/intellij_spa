@@ -1,7 +1,5 @@
-# IntelliJ IDEA
-## Static Code Analysis
+# IntelliJ IDEA - Static Code Analysis
 
------------------------------
 ### Overview
 The purpose of this project is to practice static code analysis with the usage of IntelliJ IDEA _Inspect Code..._ tool (the _"Inspector"_).
 
@@ -16,7 +14,7 @@ There is one class in this project called `IntelliJ.java`, which has 5 methods:
    - has a mistake that can be caught by the Inspector,
    - has some clues how it can be corrected.
 3. Correct every mistake in Additional Methods that can be caught by the Inspector. You should correct at least **four** mistakes, one mistake per method.
-4. Prior to correction of every mistake in Additional Methods run the Inspector and identify the mistake to be corrected in the Inspector's suggestions. Run the Inspector the following way:<br>
+4. Prior to correction of every mistake in Additional Methods, run the Inspector and identify the mistake to be corrected in the Inspector's suggestions. Run the Inspector the following way:<br>
 _Tools Bar ➔ Code ➔ Inspect Code ➔ Inspection Scope: file `IntelliJ.java` ➔ OK_
 5. Do not change anything in the `main` method.
 6. After the correction of all the mistakes, run the Inspector and make sure that it shows no mistakes to be corrected. 
