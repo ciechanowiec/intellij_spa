@@ -18,7 +18,7 @@ class IntelliJ {
         String wordOne = "Milky";
         String wordTwo = "Way";
         String connectedWords = connectWords(wordOne, wordTwo);
-        System.out.println("\nTASK 1");
+        System.out.println("TASK 1");
         System.out.printf("Connected words: %s%n", connectedWords);
 
         /* TASK 2 */
