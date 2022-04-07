@@ -8,8 +8,13 @@ There is one class in this project called `IntelliJ.java`, which has 5 methods:
 1. One `main` method.
 2. Four methods to be changed during the task (the _"Additional Methods"_).
 
+### Deactivate SonarLint
+Prior to completing the task disable SonarLint plugin if installed:
+1. _Tools Bar ➔ File ➔ Settings ➔ Tools ➔ SonarLint ➔ Uncheck 'Automatically trigger analysis'_.
+2. Restart IntelliJ IDEA.
+
 ### Task description
-1. Before completing the task run `main` method and study `IntelliJ.java` mechanism. You will see that the code works, but it has some non-critical mistakes. Your task is to correct them. 
+1. Prior to completing the task run `main` method and study `IntelliJ.java` mechanism. You will see that the code works, but it has some non-critical mistakes. Your task is to correct them. 
 2. Every Additional Method:
    - has a mistake that can be caught by the Inspector,
    - has some clues how it can be corrected.
