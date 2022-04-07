@@ -46,13 +46,13 @@ class IntelliJ {
         return wordOne.concat(wordTwo);
     }
 
-    /* Correct this method any way you like
+    /* Correct the body of this method any way you like
      * to avoid the warning suggested by the Inspector */
     private static int makeSomeMath(int number) {
         return number / 1;
     }
 
-    /* Correct this method the way
+    /* Correct the body of this method the way
      * suggested by the Inspector */
     static String generateRandomString() {
 //        String firstWordForMyString = "*******";
